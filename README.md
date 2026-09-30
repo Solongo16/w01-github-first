@@ -1,1 +1,1 @@
-# Week 1 Github-first practice
+# Week 1 local-first practice
